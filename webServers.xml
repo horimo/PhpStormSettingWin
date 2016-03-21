@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2f7b0d5d-17cb-4a5b-87ec-8e5c8f3ba44e" name="カイシャの評判" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
