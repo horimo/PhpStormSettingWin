@@ -7,6 +7,9 @@
       <webServer id="542e2c7a-4c13-4f06-81a3-5c1d90b2dd0b" name="エン転職_trunk" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="fdc4b299-3617-4a08-92a9-0e0ff8c0f4ad" name="Bプロ_trunk" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
