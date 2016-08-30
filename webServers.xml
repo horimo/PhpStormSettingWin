@@ -10,6 +10,9 @@
       <webServer id="fdc4b299-3617-4a08-92a9-0e0ff8c0f4ad" name="Bプロ_trunk" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="a04d52b7-5580-4768-a4ca-e9be547a771a" name="ミドル" url="https://consul.localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
