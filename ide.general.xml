@@ -6,5 +6,6 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="ide.mac.useNativeClipboard" value="true" />
+    <entry key="debugger.watches.in.variables" value="false" />
   </component>
 </application>
