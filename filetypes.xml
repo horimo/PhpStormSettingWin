@@ -4,6 +4,7 @@
       <mapping ext="xlsm" type="Native" />
       <mapping pattern="ウォッチリストレコメンド見積り" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="内部設計メモ" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
