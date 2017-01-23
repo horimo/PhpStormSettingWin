@@ -13,6 +13,12 @@
       <webServer id="a04d52b7-5580-4768-a4ca-e9be547a771a" name="ミドル" url="https://consul.localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="634f4e66-5bd0-43d6-a71a-5f4440d088ea" name="DR_エン転職" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="bb19113f-f34a-4a66-8bb1-fd84eab473ab" name="DR_engage" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
