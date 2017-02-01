@@ -9,6 +9,7 @@
       <mapping pattern="sitemapxmlバッチ" type="PLAIN_TEXT" />
       <mapping pattern="内部設計メモ" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="[プ]ログイン、枠一覧、人材グループ管理、スカウト送信" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
