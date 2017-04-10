@@ -6,6 +6,7 @@
       <mapping pattern="ウォッチリストレコメンド見積り" type="PLAIN_TEXT" />
       <mapping pattern="consul_client_data" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="engageサーバ接続情報" type="PLAIN_TEXT" />
       <mapping pattern="sitemapxmlバッチ" type="PLAIN_TEXT" />
       <mapping pattern="内部設計メモ" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
