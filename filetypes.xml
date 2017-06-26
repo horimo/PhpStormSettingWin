@@ -5,6 +5,7 @@
       <mapping pattern="スライドイン" type="PLAIN_TEXT" />
       <mapping pattern="ウォッチリストレコメンド見積り" type="PLAIN_TEXT" />
       <mapping pattern="consul_client_data" type="PLAIN_TEXT" />
+      <mapping pattern="stat" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="engageサーバ接続情報" type="PLAIN_TEXT" />
       <mapping pattern="00_重点指標" type="PLAIN_TEXT" />
